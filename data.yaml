@@ -1,0 +1,4 @@
+train: /content/images/train
+val: /content/images/validation
+nc: 4
+names: ['Healthy', 'Leaf Spot', 'Leaf Blight', 'Leaf White']
